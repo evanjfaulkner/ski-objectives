@@ -1,0 +1,8 @@
+Django>=4.2.0
+pillow>=10.0.0  # for image handling
+django-crispy-forms>=2.0  # for better form rendering
+crispy-bootstrap5>=0.7  # bootstrap5 template pack for crispy-forms
+python-dotenv>=1.0.0  # for environment variables
+gunicorn>=21.2.0  # for deployment
+whitenoise>=6.5.0  # for serving static files
+psycopg2-binary>=2.9.9  # for PostgreSQL database 
